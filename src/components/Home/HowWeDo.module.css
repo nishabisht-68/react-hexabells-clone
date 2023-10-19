@@ -1,0 +1,58 @@
+
+.container{
+    display: flex;
+    height:50vh;
+    padding:30px;
+    padding-left: 10px;
+    text-align:left;
+    position:relative;
+}
+
+.content{
+    position:absolute;
+    padding:0 50px;
+    left:50px;
+    line-height: 1.5;
+}
+.heading{
+    
+    margin-top:20px;
+    font-weight: normal;
+    color:black;
+}
+
+
+
+.red{
+    color:red;
+}
+
+@media screen and (max-width:1000px){
+
+    .container{
+
+        height:20vh;
+        padding:0;
+    }
+    .content{
+        /* left:20px; */
+        padding:30px 20px 0 0;
+    }
+    .container{
+        padding-left: 0;
+        height: 100vh;
+    }
+
+    h1{
+        font-size:25px;
+        padding: 0;
+        margin:0;
+    }
+    .para{
+        font-size: 20px;
+       
+    }
+
+
+}
+

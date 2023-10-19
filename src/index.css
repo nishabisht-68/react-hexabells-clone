@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "QuickSand", sans-serif;
+  }
+
+  body{
+    overflow-x: hidden;
+  }
+
+  
+/* 
+  img{
+    filter:grayscale(100%);
+
+  }
+
+  img:hover{
+    filter:none;
+  } */
