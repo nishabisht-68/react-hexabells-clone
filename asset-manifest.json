@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nishabisht-68/react-hexabells-clone/static/css/main.e0bbae23.css",
-    "main.js": "/nishabisht-68/react-hexabells-clone/static/js/main.b729fa5e.js",
+    "main.js": "/nishabisht-68/react-hexabells-clone/static/js/main.a6002046.js",
     "static/js/787.38d6d012.chunk.js": "/nishabisht-68/react-hexabells-clone/static/js/787.38d6d012.chunk.js",
     "index.html": "/nishabisht-68/react-hexabells-clone/index.html",
     "main.e0bbae23.css.map": "/nishabisht-68/react-hexabells-clone/static/css/main.e0bbae23.css.map",
-    "main.b729fa5e.js.map": "/nishabisht-68/react-hexabells-clone/static/js/main.b729fa5e.js.map",
+    "main.a6002046.js.map": "/nishabisht-68/react-hexabells-clone/static/js/main.a6002046.js.map",
     "787.38d6d012.chunk.js.map": "/nishabisht-68/react-hexabells-clone/static/js/787.38d6d012.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0bbae23.css",
-    "static/js/main.b729fa5e.js"
+    "static/js/main.a6002046.js"
   ]
 }
